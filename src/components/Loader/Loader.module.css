@@ -1,0 +1,15 @@
+.overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(82, 40, 174);
+    width: 100vw;
+    height: 100vh;
+}
+
+.loader {
+    z-index: 1200;
+}
